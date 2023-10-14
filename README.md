@@ -57,55 +57,8 @@ git push origin branch-name
 
 This is very beginner friendly project, if you have knowledge of HTML and CSS, you can easily contribute!
 
-#This is how actual p-roject looks
-# <img width="600"  alt="logo" src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg"> .
-
-
-### 1. Add your name
-
-Add your name to the `CONTRIBUTING.md` file using the below convention:
-
-```markdown
-#### Name: [YOUR NAME](GitHub link)
-
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
-```
-
-### 2. Add a profile page
-
-Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like. Here is an example:
-
-```markdown
-# Your Name
-
-### Location
-
-Your City/Country
-
-### Academics
-
-Your School
-
-### Interests
-
-- Some Things You Like
-
-### Development
-
-- Inventor of the My Pillow
-
-### Projects
-
-- [My Project](GitHub Link) Short Description
-
-### Profile Link
-
-[Your Name](GitHub Link)
-```
-
-
+#This is how actual project looks
+# <img width="600"  alt="logo" src="https://github.com/devmeet-community/landing-page-html/blob/main/Picture.jpg"> .
 
 ### Choose one or all , make a pull request for your work and wait for it to be merged!
 
