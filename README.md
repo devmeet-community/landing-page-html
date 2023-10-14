@@ -29,7 +29,7 @@ October 1st-31st to grab free DIGITAL-SWAGS 🔥
 - Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/devmeet-community/hacktoberfest-starter-project.git
+git clone https://github.com/devmeet-community/landing-page-html/tree/main
 ```
 
 - Create a branch
